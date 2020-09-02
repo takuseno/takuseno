@@ -7,7 +7,7 @@
 - :mortar_board: Ph.D's student in compute science at Keio University (2019/10/1~)
 - :fire: IPA MITOU creator (2020)
 
-## :rocket: Projects
+## :rocket: GitHub Projects
 ### As an owner
 - [d3rlpy: A data-driven deep reinforcement learning library as an out-of-the-box tool](https://github.com/takuseno/d3rlpy)
 
