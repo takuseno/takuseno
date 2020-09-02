@@ -1,16 +1,15 @@
-### Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=takuseno)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!--
-**takuseno/takuseno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=takuseno&include_all_commits=true&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+## :book: About me
+- :computer: Machine Learning Engineer at Sony AI Inc (2020/10/1~)
+- :mortar_board: Ph.D's student in compute science at Keio University (2019/10/1~)
+- :fire: IPA MITOU creator (2020)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :rocket: Projects
+### As an owner
+- [d3rlpy: A data-driven deep reinforcement learning library as an out-of-the-box tool](https://github.com/takuseno/d3rlpy)
+
+### As a contributor
+- [Sony's Nueral Network Libraries](https://github.com/sony/nnabla)
