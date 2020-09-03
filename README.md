@@ -6,7 +6,7 @@
 - :computer: Machine Learning Engineer at Sony AI Inc (2020/10/1~)
 - :mortar_board: Ph.D's student in compute science at Keio University (2019/10/1~)
 - :fire: IPA MITOU creator (2020)
-- :keyboard: I'm a Vimmer (a whole time)
+- :keyboard: Vimmer (a whole time)
 - :eyes: Visit [here](https://takuseno.github.com) for more information
 
 ## :rocket: GitHub Projects
