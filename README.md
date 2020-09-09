@@ -11,6 +11,7 @@
 
 ## :rocket: GitHub Projects
 ### As an owner
+- [MINERVA: An out-of-the-box GUI tool for data-driven deep reinforcement learning](https://github.com/takuseno/minerva)
 - [d3rlpy: A data-driven deep reinforcement learning library as an out-of-the-box tool](https://github.com/takuseno/d3rlpy)
 - [d4rl-pybullet: Datasets for Data-Driven Deep Reinforcement Learning with Pybullet environments](https://github.com/takuseno/d4rl-pybullet)
 - [d4rl-atari: Datasets for Data-driven Deep Reinforcement Learning with Atari (wrapper for datasets released by Google)](https://github.com/takuseno/d4rl-atari)
