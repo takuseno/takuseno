@@ -7,7 +7,7 @@
 - :mortar_board: Ph.D's student in compute science at Keio University (2019/10/1~)
 - :fire: IPA MITOU creator (2020)
 - :keyboard: Vimmer (a whole time)
-- :eyes: Visit [here](https://takuseno.github.com) for more information
+- :eyes: Visit [here](https://takuseno.github.io) for more information
 
 ## :rocket: GitHub Projects
 ### As an owner
