@@ -20,3 +20,4 @@
 - [A CUDA Extension of Neural Network Libraries](https://github.com/sony/nnabla-ext-cuda)
 - [nnabla-rl](https://github.com/sony/nnabla-rl)
 - [nnabla-browser](https://github.com/sony/nnabla-browser)
+- [nnabla-js](https://github.com/sony/nnabla-js)
