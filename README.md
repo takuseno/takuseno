@@ -3,7 +3,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=takuseno&include_all_commits=true&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :book: About me
-- :computer: Machine Learning Engineer at Sony AI Inc (2020/10/1 - Present)
+- :computer: Machine Learning Engineer at Sony AI / Sony Research inc (2020/10/1 - Present)
 - :mortar_board: Ph.D's student in computer science at Keio University (2019/10 - 2023/09)
 - :fire: IPA MITOU super creator (2020)
 - :keyboard: Vimmer (a whole time)
