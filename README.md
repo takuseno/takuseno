@@ -4,7 +4,7 @@
 
 ## :book: About me
 - :computer: Machine Learning Engineer at Sony AI / Sony Research (2020/10/1 - Present)
-- :mortar_board: Ph.D's student in computer science at Keio University (2019/10 - 2023/09)
+- :mortar_board: Ph.D in computer science at Keio University (2019/10 - 2023/09)
 - :fire: IPA MITOU super creator (2020)
 - :keyboard: Vimmer (a whole time)
 - :eyes: Visit [here](https://takuseno.github.io) for more information
